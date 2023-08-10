@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Sebib
+ *
+ */
+module functionalProgramPract {
+}
